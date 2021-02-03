@@ -6,5 +6,5 @@
 
 > From the basement to the penthouse, Bellhop will make sure your Azure infrastructure always ends up on the right floor!
 
-[GitHub](https://github.com/CloudViking/openhack-autoscale)
+[GitHub](https://github.com/DCMattyG/bellhop)
 [Get Started](./README.md)
